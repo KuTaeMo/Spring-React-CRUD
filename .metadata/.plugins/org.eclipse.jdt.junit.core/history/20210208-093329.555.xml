@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BookControllerUnitTest" project="book-backend" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.cos.book.web.BookControllerUnitTest" time="0.383" displayname="BookControllerUnitTest" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerUnitTest]">
+    <testcase name="save_테스트" classname="com.cos.book.web.BookControllerUnitTest" time="0.383" displayname="save_테스트()" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerUnitTest]/[method:save_테스트()]"/>
+  </testsuite>
+</testrun>
